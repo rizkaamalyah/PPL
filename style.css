@@ -1,0 +1,62 @@
+body {
+    font-family: poppins;
+  }
+  .hero {
+    background-color: #7bdc84;
+    padding: 80px 0;
+    text-align: center;
+    color: white;
+  }
+  .hero h1 {
+    font-size: 90px;
+    font-weight: bold;
+  }
+  .stat-card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .logo {
+    max-width: 40px;
+    margin-bottom: 10px;
+  }
+  .footer {
+    background-color: #7bdc84;
+    color: white;
+    padding: 20px 0;
+  }
+  .navbar {
+    justify-content: center;
+  }
+  .navbar-brand {
+    margin-right: auto;
+  }
+  .btn-talk-sales {
+    background-color: white;
+    color: #7bdc84;
+    border: 2px solid #7bdc84;
+    font-weight: bold;
+  }
+  .btn-talk-sales:hover {
+    background-color: #7bdc84;
+    color: white;
+  }
+  .navbar-nav {
+    margin-left: auto;
+  }
+  .container .img-fluid {
+    max-width: 80%;
+    margin-left: 200px;
+  }
+  .col-md-6 {
+    margin-top: 20px;
+  }
+  .btn-primary {
+    background-color: #038321 !important; /* Change button color to green */
+    border-color: #038321 !important;
+    font-size: 16px;
+  }
+  
